@@ -1,0 +1,2 @@
+{"name":"raghu","email":"raghu@mail.com","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"name":"baddam","email":"bd@mail.com","permissions":{"accounts":"read","policies":"write","users":"write"}}
